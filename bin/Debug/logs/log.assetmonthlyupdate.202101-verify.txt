@@ -1,0 +1,33 @@
+2021-01-16 14:30:36.0576|INFO|AssetMonthlyUpdate.Program|Started|
+2021-01-16 14:30:36.3233|INFO|AssetMonthlyUpdate.Program|START UpdateFARequestItems|
+2021-01-16 14:30:36.3545|INFO|AssetMonthlyUpdate.Program|Initialized client context|
+2021-01-16 14:30:43.1359|INFO|AssetMonthlyUpdate.Program|Total excel rows : 4|
+2021-01-16 14:30:43.1359|INFO|AssetMonthlyUpdate.Program|Filtered excel rows (records without blank asset no) : 4|
+2021-01-16 14:30:46.5892|INFO|AssetMonthlyUpdate.Program|----------------------------------------------------------|
+2021-01-16 14:30:46.5892|INFO|AssetMonthlyUpdate.Program|Processing Item : 2161000753|
+2021-01-16 14:30:46.8235|INFO|AssetMonthlyUpdate.Program|No of Items filtered Items : 1|
+2021-01-16 14:30:46.8391|INFO|AssetMonthlyUpdate.Program|Fetching main list item.....|
+2021-01-16 14:30:47.2610|INFO|AssetMonthlyUpdate.Program|Updating the fields : {"AssetRequestNo":"1544", "CompanyCode":"2400", "AssetClass":"Y2161081", "Currency":"USD", "Location":"YEA-L8-13", "CostCenter":"BN49", "AssetNo_YGS":"2161000753", "FAInventory":"YEA-JDT20120271", "SerialNumber":"", "AssetDescription":"PORTABLE PRESSURE TEST RIG", "SAPPurchasedDate":"4\/19\/2013", "Quantity":"1", "Costs":"5,360.57", "CurrentBookValue":"0.00", "Deactivation_on":""}|value1=AssetMonthlyUpdate.AssetHistoryExcelData
+2021-01-16 14:30:47.8547|INFO|AssetMonthlyUpdate.Program|Updated Item....|
+2021-01-16 14:30:47.8547|INFO|AssetMonthlyUpdate.Program|Updating mainList Item : FA-YEA-202012-001544|
+2021-01-16 14:30:48.6361|INFO|AssetMonthlyUpdate.Program|Updated main list item.....|
+2021-01-16 14:30:48.6361|INFO|AssetMonthlyUpdate.Program|----------------------------------------------------------|
+2021-01-16 14:30:48.6516|INFO|AssetMonthlyUpdate.Program|Processing Item : 2161000746|
+2021-01-16 14:30:48.8079|INFO|AssetMonthlyUpdate.Program|No of Items filtered Items : 1|
+2021-01-16 14:30:48.8079|INFO|AssetMonthlyUpdate.Program|Fetching main list item.....|
+2021-01-16 14:30:48.9798|INFO|AssetMonthlyUpdate.Program|Updating the fields : {"AssetRequestNo":"1537", "CompanyCode":"2400", "AssetClass":"Y2161081", "Currency":"USD", "Location":"YEA-OS-001", "CostCenter":"BN49", "AssetNo_YGS":"2161000746", "FAInventory":"YEA-JDT20120151", "SerialNumber":"", "AssetDescription":"AXW500G-NNHL1N - DEMO UNIT", "SAPPurchasedDate":"11\/2\/2012", "Quantity":"1", "Costs":"2,265.07", "CurrentBookValue":"0.00", "Deactivation_on":""}|value1=AssetMonthlyUpdate.AssetHistoryExcelData
+2021-01-16 14:30:49.2767|INFO|AssetMonthlyUpdate.Program|Updated Item....|
+2021-01-16 14:30:49.2923|INFO|AssetMonthlyUpdate.Program|Updating mainList Item : FA-YEA-202012-001537|
+2021-01-16 14:30:49.6517|INFO|AssetMonthlyUpdate.Program|Updated main list item.....|
+2021-01-16 14:30:49.6673|INFO|AssetMonthlyUpdate.Program|----------------------------------------------------------|
+2021-01-16 14:30:49.6673|INFO|AssetMonthlyUpdate.Program|Processing Item : 2161000746|
+2021-01-16 14:30:49.7923|INFO|AssetMonthlyUpdate.Program|No of Items filtered Items : 1|
+2021-01-16 14:30:49.7923|INFO|AssetMonthlyUpdate.Program|Fetching main list item.....|
+2021-01-16 14:30:50.2142|INFO|AssetMonthlyUpdate.Program|For this Asset No there are duplicates in the FA System List Asset No - 2161000746|
+2021-01-16 14:30:50.2298|INFO|AssetMonthlyUpdate.Program|----------------------------------------------------------|
+2021-01-16 14:30:50.2454|INFO|AssetMonthlyUpdate.Program|Processing Item : 2161000753|
+2021-01-16 14:30:50.3549|INFO|AssetMonthlyUpdate.Program|No of Items filtered Items : 1|
+2021-01-16 14:30:50.3704|INFO|AssetMonthlyUpdate.Program|Fetching main list item.....|
+2021-01-16 14:30:50.5580|INFO|AssetMonthlyUpdate.Program|For this Asset No there are duplicates in the FA System List Asset No - 2161000753|
+2021-01-16 14:30:50.5735|INFO|AssetMonthlyUpdate.Program|END UpdateFARequestItems|
+2021-01-16 14:30:50.5892|INFO|AssetMonthlyUpdate.Program|Ended|

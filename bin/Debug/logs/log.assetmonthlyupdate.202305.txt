@@ -1,0 +1,6 @@
+2023-05-10 22:11:43.5904|INFO|AssetMonthlyUpdate.Program|Started|
+2023-05-10 22:11:44.0279|INFO|AssetMonthlyUpdate.Program|START UpdateFARequestItems|
+2023-05-10 22:11:44.0435|INFO|AssetMonthlyUpdate.Program|Initialized client context|
+2023-05-10 22:11:56.3166|ERROR|AssetMonthlyUpdate.Program|A column named 'Asset description' already belongs to this DataTable.|
+2023-05-10 22:11:56.3166|INFO|AssetMonthlyUpdate.Program|END UpdateFARequestItems|
+2023-05-10 22:11:56.3322|INFO|AssetMonthlyUpdate.Program|Ended|
